@@ -1,4 +1,4 @@
-# Suggestions Bot
+# Suggestions Bot | Made by Bongo#9681
 
 This is a Discord bot that allows users to submit suggestions using slash commands.
 
