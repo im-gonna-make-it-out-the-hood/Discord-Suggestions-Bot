@@ -13,7 +13,7 @@ This is a Discord bot that allows users to submit suggestions using slash comman
 ### Prerequisites
 
 - Node.js (at least version 16.x)
-- Discord.js (version 13.x)
+- Discord.js (version 13.16.0)
 - Discord bot token
 
 ### Installation
@@ -23,3 +23,21 @@ This is a Discord bot that allows users to submit suggestions using slash comman
 ```bash
 git clone https://github.com/your-username/suggestions-bot.git
 cd suggestions-bot
+```
+2. Install the dependencies:
+
+```bash
+npm i
+```
+
+3. Setup the config file
+
+```json
+{
+  "token": "YOUR_BOT_TOKEN",
+  "guildId": "YOUR_GUILD_ID",
+  "clientId": "YOUR_BOT_CLIENT_ID",
+  "suggestionChannelId": "YOUR_SUGGESTION_CHANNEL_ID"
+}
+```
+Then you're ready to run the bot!
