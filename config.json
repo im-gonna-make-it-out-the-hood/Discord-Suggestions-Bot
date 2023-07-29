@@ -1,0 +1,5 @@
+{
+    "token": "BOT_TOKEN_HERE",
+    "appId": "BOT_APPLICATION_ID_HERE",
+    "guildId": "GUILD_ID_HERE"
+}
