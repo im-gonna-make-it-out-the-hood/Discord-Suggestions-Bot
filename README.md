@@ -36,7 +36,7 @@ npm i
 {
   "token": "YOUR_BOT_TOKEN",
   "guildId": "YOUR_GUILD_ID",
-  "clientId": "YOUR_BOT_CLIENT_ID",
+  "appId": "YOUR_BOT_APPLICATION_ID",
   "suggestionChannelId": "YOUR_SUGGESTION_CHANNEL_ID"
 }
 ```
