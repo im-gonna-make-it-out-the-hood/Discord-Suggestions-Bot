@@ -41,3 +41,5 @@ npm i
 }
 ```
 Then you're ready to run the bot!
+
+![Reminder](https://media.discordapp.net/attachments/1116769511262138417/1134891584840794223/Screenshot_2023-07-29_115312.png?width=1440&height=630)
